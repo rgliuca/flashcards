@@ -1,0 +1,12 @@
+car
+a vehicle
+cat
+a domesticated animal
+pen
+a writing utensil
+apple
+a common fruit
+elephant
+a large four-legged mamal
+Earth
+our planet
